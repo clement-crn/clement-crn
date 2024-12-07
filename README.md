@@ -7,8 +7,8 @@ Now learning rust.
 I am eager to work in the blockchain industry in the near future.
 
 ---
-- [What programmers should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-- [Proofs, Arguments, and Zero-Knowledge by Justin Thaler](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
+- [What programmers should know about memory - Ulrich Drepper](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Proofs, Arguments, and Zero-Knowledge - Justin Thaler](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 - [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 ---
 
