@@ -5,6 +5,8 @@ I'm a passionate developer with 2 years of experience in full-stack development,
 
 ---
 
+
+| Title                                                                                       | Description                                       |
 |---------------------------------------------------------------------------------------------|---------------------------------------------------|
 | ["Proofs, Arguments, and Zero-Knowledge by Justin Thaler"](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html) | An article on Zero-Knowledge proofs.            |
 | ["Solana Whitepaper"](https://solana.com/solana-whitepaper.pdf)                              | Learn about Solana's technical foundations.      |
