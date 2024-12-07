@@ -2,8 +2,6 @@ I'm a passionate developer with 2 years of experience in full-stack development,
 - **Languages**: JavaScript, Node.js, and PostgreSQL.
 - **Frameworks**: React.js, Tailwind, and Dockerized environments.
 
-Now learning rust.
-
 I am eager to work in the blockchain industry in the near future.
 
 ---
