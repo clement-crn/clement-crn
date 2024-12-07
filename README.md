@@ -1,13 +1,13 @@
 I'm a passionate developer with 2 years of experience in full-stack development, working on projects involving:
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg) Node.js
-- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg) PostgreSQL
-- ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React.js
-- ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/43/Docker_logo.png) Docker
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" /> JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" width="20" /> Node.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg" width="20" /> PostgreSQL
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" /> React.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Docker_logo.png" width="20" /> Docker
 
-Learning
-- ![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg) Rust
-- ![Solana](https://upload.wikimedia.org/wikipedia/commons/3/39/Solana_logo.svg) Solana
+Learning:
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="20" /> Rust
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Solana_logo.svg" width="20" /> Solana
 
 
 
